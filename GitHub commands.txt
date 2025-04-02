@@ -1,0 +1,22 @@
+GitHub commands
+
+git --version
+
+git init
+git config --global user.name="rishmi"
+git config --global user.email="rishmitha@gmail.com"
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rishmitha123/dataanalytics.git
+git push -u origin main
+git push
+
+
+
+git branch //get the branch name
+git pull
+git checkout branch//changing from one branch to other branch
+
+git checkout main    //it will display the files present in main
+git checkout branch  //it will display the files present in branch
